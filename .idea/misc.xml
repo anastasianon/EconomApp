@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/drawable/cloud_download.xml" value="0.1" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/drawable/edit_text_bg.xml" value="0.1" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/drawable/ic_baseline_account_circle.xml" value="0.1" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.1" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/drawable/ic_baseline_loginout.xml" value="0.1" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/drawable/menu_shopping.xml" value="0.1" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/drawable/mycart.xml" value="0.1" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/font/aclonica.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/font/amethysta.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_add_address.xml" value="0.25" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_address.xml" value="0.22" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_cart.xml" value="0.3088768115942029" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_detailed.xml" value="0.25" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_main.xml" value="0.3088768115942029" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_on_boarding.xml" value="0.2" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_payment.xml" value="0.32303370786516855" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_show_all.xml" value="0.3197463768115942" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/address_item.xml" value="0.1" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/category_list.xml" value="0.1" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/my_cart_item.xml" value="0.3197463768115942" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/new_products.xml" value="0.3197463768115942" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/popular_items.xml" value="0.1" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/show_all_item.xml" value="0.1" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/layout/sliding_layout.xml" value="0.3197463768115942" />
+        <entry key="..\:/Users/anast/AndroidStudioProjects/EcommApp/app/src/main/res/menu/main_menu.xml" value="0.18" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/drawable/edit_text_bg.xml" value="0.1" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/drawable/edittext_bg.xml" value="0.1" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_add_address.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_address.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_cart.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_detailed.xml" value="0.2" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_main.xml" value="0.12037037037037036" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_on_boarding.xml" value="0.1" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_payment.xml" value="0.2" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_registration.xml" value="0.18" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/activity_show_all.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/address_item.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/category_list.xml" value="0.33" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/my_cart_item.xml" value="0.22" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/new_products.xml" value="0.33" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/popular_items.xml" value="0.33" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/show_all_item.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/layout/sliding_layout.xml" value="0.22" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/menu/main_menu.xml" value="0.26875" />
+        <entry key="..\:/Users/misha/AndroidStudioProjects/EcommApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1295" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

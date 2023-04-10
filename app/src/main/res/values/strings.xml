@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EcommApp</string>
+
+    <string name="first_slide">Выберите Свои Продукты</string>
+    <string name="second_slide">Быстрая доставка</string>
+    <string name="third_slide">Хорошее Обслуживание</string>
+    <string name="description">Интернет-магазин – это доступные цены, широкий, регулярно обновляемый ассортимент. В онлайн-каталоге представлено около 35 000 ведущих брендов женской, мужской и детской одежды и обуви.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

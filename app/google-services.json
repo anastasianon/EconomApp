@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630927379794",
+    "project_id": "ecommapp-b2074",
+    "storage_bucket": "ecommapp-b2074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630927379794:android:5dfc502826489ad9827e8b",
+        "android_client_info": {
+          "package_name": "com.example.ecommapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630927379794-kredtariiq2e18b05h2lgoejmdknsv1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA34bbpdatoY4_0148xKnxj6Xj4yWxmxzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630927379794-kredtariiq2e18b05h2lgoejmdknsv1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
